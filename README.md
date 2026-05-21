@@ -12,7 +12,7 @@
   <p align="center">
     <em>
      
-      ## 🎓 Education
+      🎓 Education
 
 ### **Siglo 21 - Ingeniería en Software**
 📅 2024 - Currently enrolled (3rd year)
