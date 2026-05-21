@@ -5,7 +5,7 @@
     <img aling="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="linkedin"
       height="30" widht="40" />
   </a>
-  <a href= "gabrielacarcamo.dev@gmail.com" target="black">
+  <a href= "gabrielacarcamo271200@gmail.com" target="black">
     <img aling="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Gmail"
       height="30" widht="40" />
   </a>
