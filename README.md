@@ -11,7 +11,7 @@
   </a>
   <p align="center">
     <em>
-      Acerca de mi
+     
       ## 🎓 Education
 
 ### **Siglo 21 - Ingeniería en Software**
